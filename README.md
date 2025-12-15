@@ -2,6 +2,7 @@
 
 <!--
 **u-sylvie/u-sylvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/cb547060-e2dd-4d8c-8dd2-852db70c3ad0" />
 
 Here are some ideas to get you started:
 
