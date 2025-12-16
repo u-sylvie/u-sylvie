@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;Spring+Boot+Enthusiast;DevOps+Learner;Physics+%26+Math+Student;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Spring+Boot+Enthusiast;DevOps+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
@@ -77,19 +77,10 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uanda&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uanda&layout=compact&theme=tokyonight" height="180" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uanda&theme=onedark&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sylvie&theme=onedark&row=1&column=6" />
 </p>
 
 ---
